@@ -1,38 +1,38 @@
-{
+[
   {
-    id: 0,
-    type: "item",
-    text: "Captain Piett",
-    description: "Captain Piett description"
+    "id": 0,
+    "type": "item",
+    "text": "Captain Piett",
+    "description": "Captain Piett description"
   },
   {
-    id: 1,
-    type: "item",
-    text: "General Veers",
-    description: "General Veers description"
+    "id": 1,
+    "type": "item",
+    "text": "General Veers",
+    "description": "General Veers description"
   },
   {
-    id: 2,
-    type: "item",
-    text: "Admiral Ozzel",
-    description: "Admiral Ozzel description"
+    "id": 2,
+    "type": "item",
+    "text": "Admiral Ozzel",
+    "description": "Admiral Ozzel description"
   },
   {
-    id: 3,
-    type: "group",
-    text: "4th Fighter Group",
-    description: "The Fourth Group"
+    "id": 3,
+    "type": "group",
+    "text": "4th Fighter Group",
+    "description": "The Fourth Group"
   },
   {
-    id: 4,
-    type: "item",
-    text: "Commander Jerjerrod",
-    description: "Commander Jerjerrod description"
+    "id": 4,
+    "type": "item",
+    "text": "Commander Jerjerrod",
+    "description": "Commander Jerjerrod description"
   },
   {
-    id: 5,
-    type: "group",
-    text: "5th Fighter Group",
-    description: "The Fifth Group"
+    "id": 5,
+    "type": "group",
+    "text": "5th Fighter Group",
+    "description": "The Fifth Group"
   }
-}
+]
