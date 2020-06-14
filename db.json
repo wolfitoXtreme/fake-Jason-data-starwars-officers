@@ -1,46 +1,42 @@
-[
-  {
-    "officers": [
-      {
-        "id": 0,
-        "type": "item",
-        "text": "Captain Piett",
-        "description": "Captain Piett description"
-      },
-      {
-        "id": 1,
-        "type": "item",
-        "text": "General Veers",
-        "description": "General Veers description"
-      },
-      {
-        "id": 2,
-        "type": "item",
-        "text": "Admiral Ozzel",
-        "description": "Admiral Ozzel description"
-      },
-      {
-        "id": 3,
-        "type": "item",
-        "text": "Commander Jerjerrod",
-        "description": "Commander Jerjerrod description"
-      }
-    ]
-  },
-  {
-    "groups": [
-      {
-        "id": 0,
-        "type": "group",
-        "text": "4th Fighter Group",
-        "description": "The Fourth Group"
-      },
-      {
-        "id": 1,
-        "type": "group",
-        "text": "5th Fighter Group",
-        "description": "The Fifth Group"
-      }
-    ]
-  }
-]
+{
+  "officers": [
+    {
+      "id": 0,
+      "type": "item",
+      "text": "Captain Piett",
+      "description": "Captain Piett description"
+    },
+    {
+      "id": 1,
+      "type": "item",
+      "text": "General Veers",
+      "description": "General Veers description"
+    },
+    {
+      "id": 2,
+      "type": "item",
+      "text": "Admiral Ozzel",
+      "description": "Admiral Ozzel description"
+    },
+    {
+      "id": 3,
+      "type": "item",
+      "text": "Commander Jerjerrod",
+      "description": "Commander Jerjerrod description"
+    }
+  ],
+  "groups": [
+    {
+      "id": 0,
+      "type": "group",
+      "text": "4th Fighter Group",
+      "description": "The Fourth Group"
+    },
+    {
+      "id": 1,
+      "type": "group",
+      "text": "5th Fighter Group",
+      "description": "The Fifth Group"
+    }
+  ]
+}
