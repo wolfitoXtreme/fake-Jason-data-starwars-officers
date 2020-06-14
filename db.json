@@ -3,39 +3,39 @@
     {
       "id": 0,
       "type": "item",
-      "text": "Captain Piett",
+      "name": "Captain Piett",
       "description": "Lorem ipsum dolor sit amet."
     },
     {
       "id": 1,
       "type": "item",
-      "text": "General Veers",
+      "name": "General Veers",
       "description": "Consectetur adipiscing elit."
     },
     {
       "id": 2,
       "type": "item",
-      "text": "Admiral Ozzel",
+      "name": "Admiral Ozzel",
       "description": "Sed do eiusmod tempor incididunt."
     },
     {
       "id": 3,
       "group-id": 0,
       "type": "group",
-      "text": "4th Fighter Group",
+      "name": "4th Fighter Group",
       "description": "Ut labore et dolore magna aliqua."
     },
     {
       "id": 4,
       "type": "item",
-      "text": "Commander Jerjerrod",
+      "name": "Commander Jerjerrod",
       "description": " Ut enim ad minim veniam."
     },
     {
       "id": 5,
       "group-id": 1,
       "type": "group",
-      "text": "5th Fighter Group",
+      "name": "5th Fighter Group",
       "description": "Quis nostrud exercitation ullamco."
     }
   ],
@@ -43,25 +43,25 @@
     {
       "id": 1,
       "type": "item",
-      "text": "General Veers",
+      "name": "General Veers",
       "description": "Consectetur adipiscing elit."
     },
     {
       "id": 2,
       "type": "item",
-      "text": "Admiral Ozzel",
+      "name": "Admiral Ozzel",
       "description": "Sed do eiusmod tempor incididunt."
     },
     {
       "id": 3,
       "type": "item",
-      "text": "Captain Jeremoch Colton",
+      "name": "Captain Jeremoch Colton",
       "description": "Laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
       "id": 3,
       "type": "item",
-      "text": "General Oro Dassyne",
+      "name": "General Oro Dassyne",
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit."
     }
   ],
@@ -69,19 +69,19 @@
     {
       "id": 0,
       "type": "item",
-      "text": "Captain Piett",
+      "name": "Captain Piett",
       "description": "Esse cillum dolore eu fugiat nulla pariatur."
     },
     {
       "id": 1,
       "type": "item",
-      "text": "Commander Jerjerrod",
+      "name": "Commander Jerjerrod",
       "description": "Excepteur sint occaecat cupidatat non proident."
     },
     {
       "id": 1,
       "type": "item",
-      "text": "Boba Fett",
+      "name": "Boba Fett",
       "description": "Sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
   ]
