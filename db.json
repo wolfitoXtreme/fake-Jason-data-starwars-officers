@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "group-id": 0,
+      "groupId": 0,
       "type": "group",
       "name": "4th Fighter Group",
       "description": "Ut labore et dolore magna aliqua."
@@ -33,7 +33,7 @@
     },
     {
       "id": 5,
-      "group-id": 1,
+      "groupId": 1,
       "type": "group",
       "name": "5th Fighter Group",
       "description": "Quis nostrud exercitation ullamco."
