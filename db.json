@@ -59,19 +59,19 @@
   ],
   "group-1": [
     {
-      "id": 1,
+      "id": 0,
       "type": "item",
       "name": "General Veers",
       "description": "Consectetur adipiscing elit."
     },
     {
-      "id": 2,
+      "id": 1,
       "type": "item",
       "name": "Admiral Ozzel",
       "description": "Sed do eiusmod tempor incididunt."
     },
     {
-      "id": 3,
+      "id": 2,
       "type": "item",
       "name": "Captain Jeremoch Colton",
       "description": "Laboris nisi ut aliquip ex ea commodo consequat."
@@ -97,7 +97,7 @@
       "description": "Excepteur sint occaecat cupidatat non proident."
     },
     {
-      "id": 1,
+      "id": 2,
       "type": "item",
       "name": "Boba Fett",
       "description": "Sunt in culpa qui officia deserunt mollit anim id est laborum."
