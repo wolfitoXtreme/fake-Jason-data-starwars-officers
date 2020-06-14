@@ -37,6 +37,24 @@
       "type": "group",
       "name": "5th Fighter Group",
       "description": "Quis nostrud exercitation ullamco."
+    },
+    {
+      "id": 6,
+      "type": "item",
+      "name": "Captain Jeremoch Colton",
+      "description": "Laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 7,
+      "type": "item",
+      "name": "General Oro Dassyne",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit."
+    },
+    {
+      "id": 8,
+      "type": "item",
+      "name": "Boba Fett",
+      "description": "Sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
   ],
   "group-1": [
