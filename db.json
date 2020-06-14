@@ -22,7 +22,7 @@
       "id": 3,
       "groupId": 0,
       "type": "group",
-      "name": "4th Fighter Group",
+      "name": "Fighter Group",
       "description": "Ut labore et dolore magna aliqua."
     },
     {
@@ -35,7 +35,7 @@
       "id": 5,
       "groupId": 1,
       "type": "group",
-      "name": "5th Fighter Group",
+      "name": "Bomber Group",
       "description": "Quis nostrud exercitation ullamco."
     },
     {
