@@ -4,75 +4,85 @@
       "id": 0,
       "type": "item",
       "text": "Captain Piett",
-      "description": "Captain Piett description"
+      "description": "Lorem ipsum dolor sit amet."
     },
     {
       "id": 1,
       "type": "item",
       "text": "General Veers",
-      "description": "General Veers description"
+      "description": "Consectetur adipiscing elit."
     },
     {
       "id": 2,
       "type": "item",
       "text": "Admiral Ozzel",
-      "description": "Admiral Ozzel description"
+      "description": "Sed do eiusmod tempor incididunt."
     },
     {
       "id": 3,
       "group-id": 0,
       "type": "group",
       "text": "4th Fighter Group",
-      "description": "The Fourth Group"
+      "description": "Ut labore et dolore magna aliqua."
     },
     {
       "id": 4,
       "type": "item",
       "text": "Commander Jerjerrod",
-      "description": "Commander Jerjerrod description"
+      "description": " Ut enim ad minim veniam."
     },
     {
       "id": 5,
       "group-id": 1,
       "type": "group",
       "text": "5th Fighter Group",
-      "description": "The Fifth Group"
+      "description": "Quis nostrud exercitation ullamco."
     }
   ],
-  "groups": [
+  "group-1": [
+    {
+      "id": 1,
+      "type": "item",
+      "text": "General Veers",
+      "description": "Consectetur adipiscing elit."
+    },
+    {
+      "id": 2,
+      "type": "item",
+      "text": "Admiral Ozzel",
+      "description": "Sed do eiusmod tempor incididunt."
+    },
+    {
+      "id": 3,
+      "type": "item",
+      "text": "Captain Jeremoch Colton",
+      "description": "Laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": 3,
+      "type": "item",
+      "text": "General Oro Dassyne",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit."
+    }
+  ],
+  "group-2": [
     {
       "id": 0,
-      "officers": [
-        {
-          "id": 1,
-          "type": "item",
-          "text": "General Veers",
-          "description": "General Veers description"
-        },
-        {
-          "id": 2,
-          "type": "item",
-          "text": "Admiral Ozzel",
-          "description": "Admiral Ozzel description"
-        }
-      ]
+      "type": "item",
+      "text": "Captain Piett",
+      "description": "Esse cillum dolore eu fugiat nulla pariatur."
     },
     {
       "id": 1,
-      "officers": [
-        {
-          "id": 0,
-          "type": "item",
-          "text": "Captain Piett",
-          "description": "Captain Piett description"
-        },
-        {
-          "id": 4,
-          "type": "item",
-          "text": "Commander Jerjerrod",
-          "description": "Commander Jerjerrod description"
-        }
-      ]
+      "type": "item",
+      "text": "Commander Jerjerrod",
+      "description": "Excepteur sint occaecat cupidatat non proident."
+    },
+    {
+      "id": 1,
+      "type": "item",
+      "text": "Boba Fett",
+      "description": "Sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
   ]
 }
